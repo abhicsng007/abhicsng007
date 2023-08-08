@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chauhan</h1>
-<h3 align="center">I am web development and machine learning enthusiast. I love learn new technologies and create awesome products.</h3>
+<h3 align="center">I am web development and machine learning enthusiast. I love to learn new technologies and create awesome products.</h3>
 
 - 🔭 I’m currently working on [disney+hostar OTT clone](https://github.com/abhicsng007/disney-hotstar-OTT-clone)
 
