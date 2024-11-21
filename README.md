@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Abhishek Chauhan!</h1>
-  <h3>🚀 Software Developer | 🎓 B.Tech in Electronics and Communications</h3>
+  <h3>🚀 Full Stack Developer | 🎓 B.Tech in Electronics and Communications</h3>
   <p>🌍 Based in New Delhi, India</p>
 </div>
 
